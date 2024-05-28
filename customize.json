@@ -1,9 +1,9 @@
 {
   "greeting": "Hiya",
-  "name": "熙瑶",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "name": "瑶瑶",
+  "greetingText": "今天是六一儿童节, 仙女小朋友的节日",
+  "wishText": "希望你每天都开开心心的, 没有烦恼, 做想做的事情, 活得顺遂又热烈",
+  "imagePath": "img/xy.JPG",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
